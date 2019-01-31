@@ -5,6 +5,13 @@
 
 ##### Solution :
 
-We have implemented the Shape example using an Object-Oriented design. Java has been used as the programming language, and the MainClassMod.java consists of working code. 
+We have implemented the Shape example using an Object-Oriented design. Java has been used as the programming language, and the MainClassMod.java consists of working code.
 
+"Shape" is the superclass which has an attribute and method for the number of edges as well as a method to display shape. This class is inherited by three classes - Circle, Square and Triangle which override the methods in the superclass with their own data. 
+
+Another class MainClassMod has a function sort() which takes the edges of the shape objects, sorts them and returns the sorted objects. 
+
+In main(), we use the random function to randomly generate nine shapes (objects), after which they are printed out, first before sorting and then after sorting. In each case, the getvalue() and displayShape() methods in the superclass are overridden by the particular methods in each of the individual sub-classes.
+
+The screenshot showing the output of the program is as follows:
 
