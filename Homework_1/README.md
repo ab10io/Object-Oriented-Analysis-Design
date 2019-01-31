@@ -5,6 +5,6 @@
 
 ##### Solution :
 
-We have implemented the Shape example using an Object-Oriented design.
+We have implemented the Shape example using an Object-Oriented design. Java has been used as the programming language, and the MainClassMod.java consists of working code. 
 
 
