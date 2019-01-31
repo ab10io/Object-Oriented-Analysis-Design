@@ -15,3 +15,4 @@ In main(), we use the random function to randomly generate nine shapes (objects)
 
 The screenshot showing the output of the program is as follows:
 
+![Output](https://github.com/sowmya2910/Object-Oriented-Analysis-Design/blob/master/Homework_1/HW1%20Q4%20Output.jpeg)
